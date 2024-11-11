@@ -7,3 +7,4 @@ This is a Bash script that calculates the total wage of an employee based on hou
 2. Run the `simple-wage.sh` script.
 
 ## edited by sameer Git CLI
+Second change for PR by GIT CLI
