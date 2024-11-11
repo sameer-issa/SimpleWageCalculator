@@ -6,4 +6,4 @@ This is a Bash script that calculates the total wage of an employee based on hou
 1. Clone the repository.
 2. Run the `simple-wage.sh` script.
 
-## Example
+## edited by sameer Git CLI
